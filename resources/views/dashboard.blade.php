@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@title('Sample Page')
+@title('Dashboard')
 
 @content
 <div class="card">

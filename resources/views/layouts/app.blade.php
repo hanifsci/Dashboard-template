@@ -29,7 +29,7 @@
                             <span class="hide-menu">Home</span>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="{{ url('/') }}" aria-expanded="false">
+                            <a class="sidebar-link" href="{{ url('/dashboard') }}" aria-expanded="false">
                                 <iconify-icon icon="solar:atom-line-duotone"></iconify-icon>
                                 <span class="hide-menu">Dashboard</span>
                             </a>
@@ -47,7 +47,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="{{ url('/dashboard') }}" aria-expanded="false">
+                            <a class="sidebar-link" href="{{ url('/') }}" aria-expanded="false">
                                 <iconify-icon icon="solar:shield-user-line-duotone"></iconify-icon>
                                 <span class="hide-menu">Sample Page</span>
                             </a>
