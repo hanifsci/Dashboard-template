@@ -19,7 +19,7 @@
             <div class="card mb-0">
               <div class="card-body">
                 <a href="{{ url('/') }}" class="text-nowrap logo-img text-center d-block py-3 w-100">
-                  <img src="{{ asset('assets/images/logos/logo.svg') }}" alt="Logo">
+                  <img src="{{ asset('assets/images/logos/logo.png') }}" alt="Logo">
                 </a>
                 <p class="text-center">Please sign in to continue.</p>
 

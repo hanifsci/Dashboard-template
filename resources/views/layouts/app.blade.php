@@ -14,7 +14,7 @@
         <div class="app-topstrip bg-dark py-3 px-4 w-100 d-lg-flex align-items-center justify-content-between">
             <div class="d-none d-sm-flex align-items-center justify-content-center gap-9 mb-3 mb-lg-0">
                 <a class="d-flex justify-content-center" href="https://adminmart.com/" target="_blank">
-                    <img src="{{ asset('assets/images/logos/logo-adminmart.svg') }}" alt="Logo" width="150">
+                    <img src="{{ asset('assets/images/logos/logo-admin.png') }}" alt="Logo" width="150">
                 </a>
             </div>
             <div class="d-lg-flex align-items-center gap-3"></div>
@@ -81,7 +81,8 @@
                         <ul class="navbar-nav flex-row ms-auto align-items-center justify-content-end">
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="javascript:void(0)" id="drop2" data-bs-toggle="dropdown" aria-expanded="false">
-                                    <img src="{{ asset('assets/images/profile/user-1.jpg') }}" alt="" width="35" height="35" class="rounded-circle">
+                                    <img src="https://img.icons8.com/?size=150&id=HmQQr0jYHZxu&format=png&color=000000" alt="" width="35" height="35" class="rounded-circle">
+                                    
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
                                     <div class="message-body">
